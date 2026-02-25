@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://big-kahuna-plumbing-43193.pages.dev/sitemap.xml
